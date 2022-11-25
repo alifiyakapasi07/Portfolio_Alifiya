@@ -6,7 +6,7 @@
 
 ## Website Preview
 #### Home Page
-<img src="website_images/Home_Page.png" width="900">
+<img src="website_images/Home_page.png" width="900">
 
 #### Projects Work
 <img src="website_images/Project_Work.png" width="900">
