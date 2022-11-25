@@ -1,5 +1,6 @@
 # Portfolio_Alifiya🔥
-> alifiyakapasi07.github.io/Portfolio_Alifiya/
+> https://alifiyakapasi07.github.io/Portfolio_Alifiya/
+
 
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](alifiyakapasi07.github.io/Portfolio_Alifiya/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/alifiyakapasi07/)
